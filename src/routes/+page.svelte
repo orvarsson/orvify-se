@@ -1,5 +1,6 @@
 <script>
 	import { Fullpage, FullpageSection } from 'svelte-fullpage';
+	import { base } from '$app/paths';
 </script>
 
 <Fullpage>
@@ -17,7 +18,7 @@
 	>
 	<FullpageSection>
 		<div>
-			<img src="/orvify-logo.svg" alt="Orvify AB logo" />
+			<img src={`${base}/orvify-logo.svg`} alt="Orvify AB logo" />
 		</div></FullpageSection
 	>
 </Fullpage>
