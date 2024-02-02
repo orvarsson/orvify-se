@@ -6,9 +6,7 @@
 <Fullpage>
 	<FullpageSection>
 		<div>
-			<h1>
-				Orvify AB <a href="https://www.bolagsfakta.se/5594215252-Orvify_AB">(559421-5252)</a>
-			</h1>
+			<h1>Orvify AB (559421-5252)</h1>
 		</div>
 	</FullpageSection>
 	<FullpageSection>
