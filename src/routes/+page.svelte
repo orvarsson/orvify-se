@@ -3,6 +3,14 @@
 	import { base } from '$app/paths';
 </script>
 
+<svelte:head>
+	<title>Orvify</title>
+	<meta
+		name="description"
+		content="Orvify - frontend consultants specialized in modern frameworks such as React, Vue and SAP UI5"
+	/>
+</svelte:head>
+
 <Fullpage>
 	<FullpageSection>
 		<div>
