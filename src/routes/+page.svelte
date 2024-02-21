@@ -1,3 +1,8 @@
+<script>
+
+	import { base } from "$app/paths";
+
+</script>
 
 <svelte:head>
   <title>Orvify - freelance frontenders</title>
@@ -7,4 +12,4 @@
 
 <h1>Orvify AB (559421-5252)</h1>
 <p><a href="mailto:simon@orvify.se">simon@orvify.se</a></p>
-<img src="/orvify-logo.svg" alt="Orvify AB" />
+<img src="{base}/orvify-logo.svg" alt="Orvify AB" />
